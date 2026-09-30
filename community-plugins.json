@@ -57587,5 +57587,12 @@
     "author": "唐尚斌",
     "description": "Import Xiaohongshu notes into your vault with configurable folders, frontmatter fields, local image downloads, and engagement metrics such as likes, saves, and comments. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gitbins/xhs-importer-pro"
+  },
+  {
+    "id": "scys-radar",
+    "name": "Scys Radar",
+    "author": "zackzhangkai",
+    "description": "生财有术 MCP 雷达：热门/精华/风向标/航海，兴趣关键词高亮，一键收藏为笔记。Browse Scys (shengcaiyoushu) community inside Obsidian.",
+    "repo": "zackzhangkai/scys-radar"
   }
 ]
